@@ -1,0 +1,20 @@
+body {
+    font-family: Arial;
+}
+
+button {
+    margin: none;
+    align-items: center;
+    align-self: center;
+    justify-self: center;
+    border: dotted;
+    height: 120px;
+    width: 140px;
+    border-radius: 20%;
+    margin-left: 24.2%;
+    margin-top: 89px;
+}
+
+h1 {
+    margin-left: 35.7%;
+}
